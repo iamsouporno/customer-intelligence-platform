@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Data (large raw CSVs -- keep out of git history; documented in README
+# how to obtain them). Remove this line if you intentionally want to
+# version the raw data.
+# data/*.csv
